@@ -40,3 +40,5 @@ npm run tauri build
 ## API Key 安全
 
 应用不会把 API Key 写入网页存储、系统钥匙串或项目文件。密钥仅保存在当前运行的内存中，并在应用退出后清除。请使用你自己新建并可随时撤销的 Key。
+
+原型参考zexuanw958-svg/travel-plan-viz。
